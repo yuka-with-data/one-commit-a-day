@@ -21,7 +21,8 @@ Each entry below represents one step in that journey.
 - Work on private repositories
 ### Level 2: Standard (My default target)
 - Submit an Issue
-- Submit a small PR (bug fix, doc improvement)
+- Prepare or edit a PR for submission
+- Submit a PR (bug fix, doc improvement)
 - Reproduce a bug + document it
 - Add example usage / test case
 - Improve documentation clarity
