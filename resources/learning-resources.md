@@ -18,4 +18,7 @@
 - Start by going through the **GitHub first OSS contribution guide** to understand the workflow.  
 - Use **First Contributions** to actually experience a real PR merge.  
 - Explore **project lists** using GitHub search labels to find work you can start with.  
-- Read one or two comprehensive articles to deepen your understanding of common pitfalls and etiquette.  
+- Read one or two comprehensive articles to deepen your understanding of common pitfalls and etiquette. 
+
+## Articles/Blog Posts
+- [How I contributed a new model to the Transformers library using Codex](https://huggingface.co/blog/nielsr/contributing-to-transformers-with-codex#the-initial-prompt)
