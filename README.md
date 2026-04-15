@@ -26,6 +26,7 @@ Each entry below represents one step in that journey.
 - Reproduce a bug + document it
 - Add example usage / test case
 - Improve documentation clarity
+- Work on my own repository + Contribute 5+ times
 ### Level 3: High Value (1-2 times/week)
 - Implement a new feature or significant improvement
 - Refactor a complex code section
