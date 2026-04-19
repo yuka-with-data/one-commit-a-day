@@ -45,6 +45,12 @@ origin  https://github.com/USERNAME/REPO_NAME.git (fetch)
 origin  https://github.com/USERNAME/REPO_NAME.git (push)
 ```
 
+## 7️⃣Create a New Branch (Recommended)
+After setting up your repository, always create a separate branch for development instead of using `main` directory.
+```bash
+git checkout -b feature-branch-name
+```
+
 ## 🧠 After the Initial Setup (Daily Workflow)
 ```bash
 git add .
