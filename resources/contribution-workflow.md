@@ -51,19 +51,45 @@ git checkout -b fix-typo-in-readme
 - Test locally if needed
 - Save changes
 
-## 6️⃣Stage and commit your changes
+## 6️⃣Validate changes before commiting (pre-commit)
+Before staging/committing your changes, always run pre-commit checks:
+
+#### ▶ For small changes (recommended)
+```bash
+pre-commit run --files <changed-file>
+```
+
+#### ▶ For multiple files changed
+```bash
+pre-commit run --all-files
+```
+
+#### ⚠️ Important rules
+- Do NOT rely on `--all-files` for small PRs
+- Always re-check after hooks run:
+```bash
+git status
+git diff
+```
+- If pre-commit modifies files, re-stage them before commiting (if needed)
+```bash
+git add .
+```
+
+## 7️⃣Stage and commit your changes
+⚠️ Make sure pre-commit passed before this step
 ```bash
 git add .
 git commit -m "Brief description of your changes"
 ```
 
-## 7️⃣Push your branch to your fork
+## 8️⃣Push your branch to your fork
 For the first time push, use `-u`
 ```bash
 git push -u origin my-feature-branch
 ```
 
-## 8️⃣Create a Pull Request (PR)
+## 9️⃣Create a Pull Request (PR)
 Go to your fork on GitHub:
 - Click "Compare & pull request"
 - Add a clear title and description
