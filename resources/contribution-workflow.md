@@ -124,7 +124,7 @@ git checkout main
 ```bash
 git fetch upstream
 ```
-3. Update your local main
+3. Rebase your local main onto upstream/main
 ```bash
 git merge upstream/main
 ```
