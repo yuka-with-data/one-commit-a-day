@@ -140,6 +140,10 @@ git branch -d my-feature-branch
 ```bash
 git push origin --delete my-feature-branch
 ```
+7. Clean up stale remote references (optional)
+```bash
+git fetch --prume
+```
 
 ## 🔄Keep your branch updated (important later)
 If upstream changes while you work:
