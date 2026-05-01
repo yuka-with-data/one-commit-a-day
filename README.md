@@ -1,6 +1,6 @@
 # 🫶🏽 One Commitment a Day
 
-This repository tracks my commitment to contributing to open source projects every day for one year.
+This repository tracks my commitment to contributing to open source projects every day for one year, and also a template repository for other developers to help contribute consistently.
 
 A “contribution” is defined as any action that helps move a project forward or deepens my involvement — including code, documentation, issue, discussions, reviews, or learning-related engagement in public repositories.
 
