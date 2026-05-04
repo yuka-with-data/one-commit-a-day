@@ -51,8 +51,22 @@ git checkout -b fix-typo-in-readme
 - Test locally if needed
 - Save changes
 
-## 6️⃣Validate changes before commiting (pre-commit)
-Before staging/committing your changes, always run pre-commit checks:
+## 6️⃣Validate changes before commiting
+Before staging/committing, make sure your changes pass the project's required checks.
+
+### 🔍Check the respository first
+Look for instructions in :
+- `README.md`
+- `CONTRIBUTING.md`
+- CI configs (e.g., `.github/workflows/`)
+
+Common validation tools include:
+- `pre-commit` (linting, formatting, hooks)
+- `pytest` (tests)
+- `ESLint` (JS/TS linting)
+- `Black` (Python formatting)
+
+### If the project uses `pre-commit`
 
 #### ▶ For small changes (recommended)
 ```bash
@@ -64,7 +78,7 @@ pre-commit run --files <changed-file>
 pre-commit run --all-files
 ```
 
-#### ⚠️ Important rules
+#### Tips:
 - Do NOT rely on `--all-files` for small PRs
 - Always re-check after hooks run:
 ```bash
@@ -75,6 +89,11 @@ git diff
 ```bash
 git add .
 ```
+
+#### ⚠️ Important ruoles
+- Never skip validation -- even for small changes
+- Fix issues locally before commiting
+- CI should confirm your work, not catch preventable mistakes
 
 ## 7️⃣Stage and commit your changes
 ⚠️ Make sure pre-commit passed before this step
