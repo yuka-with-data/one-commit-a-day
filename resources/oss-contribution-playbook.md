@@ -141,3 +141,16 @@ Always inspect:
 - previous merged PRs
 - PR templates
 - contribution guidelines
+
+## Recommended First Contributions
+Good beginner contributions:
+- typo fixes
+- documentation improvements
+- examples
+- small bug fixes
+- test improvements
+
+Helpful issue labels:
+- `good first issue`
+- `help wanted`
+- `documentation`
