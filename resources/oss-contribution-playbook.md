@@ -51,3 +51,22 @@ Inside `.github/`, check for:
 - GitHub Actions workflows
 
 These files often reveal the real contribution expectations.
+
+### Setup the Local Development Environment
+Typical setup steps:
+1. Fork the official repository
+2. Clone your fork locally
+3. Add the upstream remote
+4. Install dependencies
+5. Run the project locally
+6. Run tests before making changes
+
+Common environment-related files:
+```txt
+requirements.txt
+pyproject.toml
+package.json
+Makefile
+docker-compose.yml
+.pre-commit-config.yaml
+```
