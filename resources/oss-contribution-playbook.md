@@ -33,3 +33,21 @@ Questions to ask:
 - What type of contributions are welcomed?
 - Is the maintainer responsive?
 - Is the project beginner-friendly?
+
+### 2. Locate Contribution Rules
+Most OSS repositories store important rules in multiple places.
+
+Common files and directories to inspect:
+```txt
+README.md
+CONTRIBUTING.md
+.github/
+LICENSE
+CODEOWNERS
+```
+Inside `.github/`, check for:
+- issue templates
+- pull request templates
+- GitHub Actions workflows
+
+These files often reveal the real contribution expectations.
