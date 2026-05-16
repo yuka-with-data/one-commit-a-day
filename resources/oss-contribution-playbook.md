@@ -70,3 +70,21 @@ Makefile
 docker-compose.yml
 .pre-commit-config.yaml
 ```
+
+## Understanding Hidden OSS Rules
+Many important repository rules are not explained directly in the `README`.
+
+### CI/CD (Continuous Integration/Continuous Delivery) Workflows
+Check:
+```txt
+.github/workflows/
+```
+These workflows may enforce:
+- formatting
+- linting
+- tests
+- type checking
+- branch validation
+- PR title conventions
+
+Sometimes CI errors themselves become the best documentation.
