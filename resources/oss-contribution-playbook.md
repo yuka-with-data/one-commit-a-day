@@ -154,3 +154,24 @@ Helpful issue labels:
 - `good first issue`
 - `help wanted`
 - `documentation`
+
+## Standard OSS Contribution Workflow
+```txt
+Fork Repo
+    ↓
+Clone Fork
+    ↓
+Create Feature Branch
+    ↓
+Make Changes
+    ↓
+Run Tests / Lint
+    ↓
+Commit Changes
+    ↓
+Push Branch
+    ↓
+Open Pull Request
+    ↓
+Respond to Review Feedback
+```
