@@ -175,3 +175,14 @@ Open Pull Request
     ↓
 Respond to Review Feedback
 ```
+
+## OSS Contribution Checklist
+Before submitting a PR:
+- [ ] Read README
+- [ ] Read CONTRIBUTING.md
+- [ ] Check GitHub workflows
+- [ ] Run tests locally
+- [ ] Run formatting/lint checks
+- [ ] Follow commit conventions
+- [ ] Rebase/sync with upstream if needed
+- [ ] Write a clear PR description
