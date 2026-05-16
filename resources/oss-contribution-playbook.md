@@ -128,3 +128,16 @@ Recommended practice:
 - install `pre-commit` if the repository uses it
 - run hooks locally before pushing changes
 - treat `pre-commit` failures as helpful feedback, not errors to fear
+
+### PR and Commit Expectations
+Some repositories require:
+- Conventional Commits
+- linked issues
+- small PR sizes
+- screenshots
+- changelog updates
+
+Always inspect:
+- previous merged PRs
+- PR templates
+- contribution guidelines
