@@ -186,3 +186,43 @@ Before submitting a PR:
 - [ ] Follow commit conventions
 - [ ] Rebase/sync with upstream if needed
 - [ ] Write a clear PR description
+
+## Understanding "Git Anxiety"
+Many first-time contributors feel intimidated by Git and GitHub, even when their actual changes are small. This actually comes from unfamiliar concepts being introduced at once:
+- branching and merging
+- commits as history changes
+- local vs remote states
+- CI failures after pushing
+- code review workflows
+
+### Why it feels difficult
+- Git changes are not visually obvious
+- Errors often appear after pushing (via CI)
+- Multiple systems interact (Git, GitHub, CI)
+- Contributing to public repos feels high-stakes
+
+### What is actually True
+- Forks isolate your work safely
+- Nothing changes in the original/official repo unless merged
+- Mistakes are expected and reversible
+- CI failures are normal feedback, not rejection
+
+### A Better Mental Model
+Instead of:
+> "I might break something"
+
+Think:
+> "I am proposing a change that will be reviewed and validated before it is merged."
+
+Git is not a risky tool -- it is a structured way to safely propose and review changes.
+
+### Tools That Help Visualize Git
+Git can feel abstract because history and branches are not always visible. These tools help make Git state more understandable:
+
+#### Visual Git Clients
+- GitKraken (great for beginners, clear branch visualization)
+- Sourcetree (simple GUI alternative)
+- GitHub Desktop (lightweight and easy to start)
+#### VS Code Extensions
+- Git Graph (visual commit history inside editor)
+- GitLens (enhanced history and blame tracking)
