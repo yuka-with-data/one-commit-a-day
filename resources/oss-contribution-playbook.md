@@ -88,3 +88,43 @@ These workflows may enforce:
 - PR title conventions
 
 Sometimes CI errors themselves become the best documentation.
+
+### Pre-Commit Hooks
+Some repositories use:
+```txt
+.pre-commit-config.yaml
+```
+This file defines automated checks that run locally before a commit is created.
+
+The goal is to:
+- catch problems early
+- enforce consistent formatting
+- reduce CI failures
+- maintain code quality across contributors
+
+Common tools executed through pre-commit include:
+- black
+- ruff
+- flake8
+- prettier
+- eslint
+- mypy
+
+Typical workflow:
+```txt
+git commit
+    ↓
+pre-commit hooks run automatically
+    ↓
+checks pass or fail locally
+```
+**This is different from GitHub Actions or CI pipelines.**
+- `pre-commit` runs locally on the contributor's machine
+- CI workflows run remotely on GitHub after code is pushed
+
+Many modern OSS repositories use both systems together.
+
+Recommended practice:
+- install `pre-commit` if the repository uses it
+- run hooks locally before pushing changes
+- treat `pre-commit` failures as helpful feedback, not errors to fear
