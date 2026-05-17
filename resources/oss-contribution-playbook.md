@@ -228,7 +228,7 @@ Git can feel abstract because history and branches are not always visible. These
 - GitLens (enhanced history and blame tracking)
 
 ## Final Thoughts
-Every OSS repository is different, but most folow similar structural patterns.
+Every OSS repository is different, but most follow similar structural patterns.
 
 Over time, contributors learn to:
 - identify hidden rules quickly
