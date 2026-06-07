@@ -3,7 +3,7 @@
 
 This repository grew out of my commitment to contributing to open source projects consistently over time.
 
-While my daily and monthly contribution logs are maintained in `open-source-log` repo, this repository serves as a collection of resources, references, examples, and lessons learned throughout that journey.
+While my daily and monthly contribution logs are maintained in `open-source-log` repo, this repository serves as a collection of resources, references, templates, examples, and lessons learned throughout that journey.
 
 ---
 
