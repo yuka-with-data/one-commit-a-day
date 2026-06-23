@@ -27,12 +27,12 @@ Each entry below represents one step in that journey.
 ### Level 2: Standard (My default target)
 - Submit an Issue
 - Prepare or edit a PR for submission
-- Submit a PR (bug fix, doc improvement)
 - Reproduce a bug + document it
 - Add example usage / test case
 - Improve documentation clarity
 - Work on my own repository + Contribute 5+ times
-### Level 3: High Value (1-2 times/week)
+### Level 3: High Value (1-2 times/month)
+- Submit a PR (bug fix, doc improvement)
 - Implement a new feature or significant improvement
 - Refactor a complex code section
 - Write a detailed tutorial or guide
