@@ -1,9 +1,10 @@
 # 🫶🏽 One Commitment a Day
 > A collection of resources, references, and practical insights for open source contributions
 
-This repository grew out of my commitment to contributing to open source projects consistently over time.
+This repository serves as a showcase of `one-commit-a-day` framework, as well as a collection of resources, references, templates, examples, and lessons learned throughout that journey.
 
-While my daily and monthly contribution logs are maintained in `open-source-log` repo, this repository serves as a showcase of `one-commit-a-day` framework, as well as a collection of resources, references, templates, examples, and lessons learned throughout that journey.
+> [!NOTE]
+> This repo has evolved beyond simply tracking my dairy commits. My daily and monthly contribution logs and reflections are now maintained in a separate repository.
 
 ---
 
