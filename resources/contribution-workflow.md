@@ -187,13 +187,13 @@ Local Repo
 ```
 
 ## 📝Final Checklist
-- ◻️Forked repo
-- ◻️Cloned fork locally (not from original)
-- ◻️Added upstream remote
-- ◻️Created feature branch
-- ◻️Made changes, staged, committed
-- ◻️Pushed branch to fork with `-u`
-- ◻️Opened PR
+- [ ] Forked repo
+- [ ] Cloned fork locally (not from original)
+- [ ] Added upstream remote
+- [ ] Created feature branch
+- [ ] Made changes, staged, committed
+- [ ] Pushed branch to fork with `-u`
+- [ ] Opened PR
 
 
 
