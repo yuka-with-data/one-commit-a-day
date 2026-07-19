@@ -1,8 +1,11 @@
 # OSS Contribution Playbook 2026
+
 A practical guide for understanding and contributing to open source repositories
 
 ## Why This Guide Exists
+
 Every open source repository has its own:
+
 - workflow
 - tooling
 - expectations
@@ -10,6 +13,7 @@ Every open source repository has its own:
 - contribution culture
 
 For beginners, these rules are often scattered across:
+
 - README files
 - CONTRIBUTING.md
 - GitHub Actions workflows
@@ -20,8 +24,11 @@ For beginners, these rules are often scattered across:
 This guide organizes the common patterns and modern OSS contribution practices into a reusable workflow.
 
 ## Universal OSS Contribution Structure
+
 ### 1. Understand the Project
+
 Before contributing:
+
 - Read the README carefully
 - Understand the project's purpose
 - Identify the main tech stack
@@ -29,15 +36,18 @@ Before contributing:
 - Observe recent commits and pull requests
 
 Questions to ask:
+
 - Is the project active?
 - What type of contributions are welcomed?
 - Is the maintainer responsive?
 - Is the project beginner-friendly?
 
 ### 2. Locate Contribution Rules
+
 Most OSS repositories store important rules in multiple places.
 
 Common files and directories to inspect:
+
 ```txt
 README.md
 CONTRIBUTING.md
@@ -45,7 +55,9 @@ CONTRIBUTING.md
 LICENSE
 CODEOWNERS
 ```
+
 Inside `.github/`, check for:
+
 - issue templates
 - pull request templates
 - GitHub Actions workflows
@@ -53,7 +65,9 @@ Inside `.github/`, check for:
 These files often reveal the real contribution expectations.
 
 ### Setup the Local Development Environment
+
 Typical setup steps:
+
 1. Fork the official repository
 2. Clone your fork locally
 3. Add the upstream remote
@@ -62,6 +76,7 @@ Typical setup steps:
 6. Run tests before making changes
 
 Common environment-related files:
+
 ```txt
 requirements.txt
 pyproject.toml
@@ -72,14 +87,19 @@ docker-compose.yml
 ```
 
 ## Understanding Hidden OSS Rules
+
 Many important repository rules are not explained directly in the `README`.
 
 ### CI/CD (Continuous Integration/Continuous Delivery) Workflows
+
 Check:
+
 ```txt
 .github/workflows/
 ```
+
 These workflows may enforce:
+
 - formatting
 - linting
 - tests
@@ -90,19 +110,24 @@ These workflows may enforce:
 Sometimes CI errors themselves become the best documentation.
 
 ### Pre-Commit Hooks
+
 Some repositories use:
+
 ```txt
 .pre-commit-config.yaml
 ```
+
 This file defines automated checks that run locally before a commit is created.
 
 The goal is to:
+
 - catch problems early
 - enforce consistent formatting
 - reduce CI failures
 - maintain code quality across contributors
 
 Common tools executed through pre-commit include:
+
 - black
 - ruff
 - flake8
@@ -111,6 +136,7 @@ Common tools executed through pre-commit include:
 - mypy
 
 Typical workflow:
+
 ```txt
 git commit
     ↓
@@ -118,19 +144,24 @@ pre-commit hooks run automatically
     ↓
 checks pass or fail locally
 ```
+
 **This is different from GitHub Actions or CI pipelines.**
+
 - `pre-commit` runs locally on the contributor's machine
 - CI workflows run remotely on GitHub after code is pushed
 
 Many modern OSS repositories use both systems together.
 
 Recommended practice:
+
 - install `pre-commit` if the repository uses it
 - run hooks locally before pushing changes
 - treat `pre-commit` failures as helpful feedback, not errors to fear
 
 ### PR and Commit Expectations
+
 Some repositories require:
+
 - Conventional Commits
 - linked issues
 - small PR sizes
@@ -138,12 +169,15 @@ Some repositories require:
 - changelog updates
 
 Always inspect:
+
 - previous merged PRs
 - PR templates
 - contribution guidelines
 
 ## Recommended First Contributions
+
 Good beginner contributions:
+
 - typo fixes
 - documentation improvements
 - examples
@@ -151,11 +185,13 @@ Good beginner contributions:
 - test improvements
 
 Helpful issue labels:
+
 - `good first issue`
 - `help wanted`
 - `documentation`
 
 ## Standard OSS Contribution Workflow
+
 ```txt
 Fork Repo
     ↓
@@ -177,7 +213,9 @@ Respond to Review Feedback
 ```
 
 ## OSS Contribution Checklist
+
 Before submitting a PR:
+
 - [ ] Read README
 - [ ] Read CONTRIBUTING.md
 - [ ] Check GitHub workflows
@@ -188,7 +226,9 @@ Before submitting a PR:
 - [ ] Write a clear PR description
 
 ## Understanding "Git Anxiety"
+
 Many first-time contributors feel intimidated by Git and GitHub, even when their actual changes are small. This actually comes from unfamiliar concepts being introduced at once:
+
 - branching and merging
 - commits as history changes
 - local vs remote states
@@ -196,18 +236,21 @@ Many first-time contributors feel intimidated by Git and GitHub, even when their
 - code review workflows
 
 ### Why it feels difficult
+
 - Git changes are not visually obvious
 - Errors often appear after pushing (via CI)
 - Multiple systems interact (Git, GitHub, CI)
 - Contributing to public repos feels high-stakes
 
 ### What is actually True
+
 - Forks isolate your work safely
 - Nothing changes in the original/official repo unless merged
 - Mistakes are expected and reversible
 - CI failures are normal feedback, not rejection
 
 ### A Better Mental Model
+
 Instead of:
 > "I might break something"
 
@@ -217,20 +260,26 @@ Think:
 Git is not a risky tool -- it is a structured way to safely propose and review changes.
 
 ### Tools That Help Visualize Git
+
 Git can feel abstract because history and branches are not always visible. These tools help make Git state more understandable:
 
 #### Visual Git Clients
+
 - GitKraken (great for beginners, clear branch visualization)
 - Sourcetree (simple GUI alternative)
 - GitHub Desktop (lightweight and easy to start)
+
 #### VS Code Extensions
+
 - Git Graph (visual commit history inside editor)
 - GitLens (enhanced history and blame tracking)
 
 ## Final Thoughts
+
 Every OSS repository is different, but most follow similar structural patterns.
 
 Over time, contributors learn to:
+
 - identify hidden rules quickly
 - understand repository workflows
 - decode CI systems
