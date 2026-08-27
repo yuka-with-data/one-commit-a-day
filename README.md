@@ -1,13 +1,23 @@
 # 🫶🏽 One Commitment a Day
 >
-> A collection of resources, references, and practical insights for open source contributions
+> A practical framework for building consistency, contributing to open source, and growing through small actions every day.
 
-This repository serves as a showcase of `one-commit-a-day` framework, as well as a collection of resources, references, templates, examples, and lessons learned throughout that journey.
+This repository started as my `one-commit-a-day` challenge: showing up every day and making a small contribution to keep moving forward.
 
-> [!NOTE]
-> This repo has evolved beyond simply tracking my dairy commits. My daily and monthly contribution logs and reflections are now maintained in a separate repository.
+It has since evolved into a collection of:
 
----
+- open source contribution practices
+- daily, weekly, and monthly logs
+- guided reflections
+- technical to-be journaling
+- work and project templates
+- practical resources and lessons learned
+
+The goal is simple:
+
+> Show up. Make progress. Reflect. Repeat.
+
+## The One Commit a Day Philosophy
 
 A “contribution” is defined as any action that helps move a project forward or deepens my involvement — including code, documentation, issue, discussions, reviews, or learning-related engagement in public repositories.
 
@@ -62,11 +72,11 @@ Sometime life gets busy (work, travel, unexpected events). To maintain consisten
 
 **Recovery Mode (Level 1 — Last Resort Only):**
 
-- Read an issue or PR and leave a thoughtful comment  
-- Review a repository’s structure or contribution guidelines  
-- Read code and write at least one insight in the daily log  
-- Star a useful project and explore it briefly  
-- (Optional) Work on a private repository  
+- Read an issue or PR and leave a thoughtful comment
+- Review a repository’s structure or contribution guidelines
+- Read code and write at least one insight in the daily log
+- Star a useful project and explore it briefly
+- (Optional) Work on a private repository
 
 **Rules:**
 
