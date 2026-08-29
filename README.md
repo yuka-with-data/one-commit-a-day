@@ -42,6 +42,10 @@ By showing up regularly, even in small ways, you can:
 - discover what kind of technical work matters to  you
 - grow into a long-term contributor
 
+> [!IMPORTANT]
+> **The goal is not to extend a contribution streak or make your GitHub contribution graph greener.**
+> The grass may look greener on someone else's GitHub graph, but what matters is making meaningful progress in your own journey, even when that progress is small.
+
 ## 📜 Contribution Level and Definition
 
 ### Level 1: Lightweight
