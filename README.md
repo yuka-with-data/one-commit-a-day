@@ -21,26 +21,41 @@ The goal is simple:
 
 A “contribution” is defined as any action that helps move a project forward or deepens my involvement — including code, documentation, issue, discussions, reviews, or learning-related engagement in public repositories.
 
+A contribution does not have to be a major feature or a merged pull request. It is **any action that moves a project forward or deepens your involvement**, including:
+
+- Code
+- Documentation
+- Issues
+- Discussions
+- Reviews
+- Bug investigation
+- Learning and researching
+- Work on your own projects
+
 **The goal is not perfection, but consistency.**
 
-By showing up daily, even in small ways, I aim to:
+By showing up regularly, even in small ways, you can:
 
 - build real experience in open source collaboration
 - develop technical and communication skills
-- grow into a long-term contributor within the community
-
-Each entry below represents one step in that journey.
+- build confidence through repeated practice
+- discover what kind of technical work matters to  you
+- grow into a long-term contributor
 
 ## 📜 Contribution Level and Definition
 
-### Level 1: Lightweight (On busy days)
+### Level 1: Lightweight
+
+For busy days.
 
 - Comment on an Issue (ask, clarify, suggest)
 - Review someone’s PR (even small feedback)
 - Improve README / fix typo
 - Work on private repositories
 
-### Level 2: Standard (My default target)
+### Level 2: Standard
+
+The normal target.
 
 - Submit an Issue
 - Prepare or edit a PR for submission
@@ -49,14 +64,16 @@ Each entry below represents one step in that journey.
 - Improve documentation clarity
 - Work on my own repository + Contribute 5+ times
 
-### Level 3: High Value (1-2 times/month)
+### Level 3: High Value
+
+Larger contributions, typically 1-2 times a month or every other months.
 
 - Submit a PR (bug fix, doc improvement)
 - Implement a new feature or significant improvement
 - Refactor a complex code section
 - Write a detailed tutorial or guide
 - Lead a discussion or proposal for a new design or feature
-- Create and setup a new repository
+- Create or significantly improve a repository
 
 ### 👉 Rule
 
@@ -66,9 +83,15 @@ Every day = at least Level 1
 
 1-2 days a month = Level 3
 
+The levels are guidelines.
+
 ### 🪫 Recovery Mode / Fallback
 
-Sometime life gets busy (work, travel, unexpected events). To maintain consistency without burnout, a fallback option is installed.
+Life gets busy.
+
+Work, travel, unexpected life events, low energy, or other responsibilities can make a normal contribution unrealistic.
+
+Recovery Mode exists to protect consistency without encouraging burnout.
 
 **Recovery Mode (Level 1 — Last Resort Only):**
 
@@ -81,7 +104,7 @@ Sometime life gets busy (work, travel, unexpected events). To maintain consisten
 **Rules:**
 
 - Use only when time or energy is very limited
-- Still log the activity (non-negotiable)
+- Still log the activity
 
 ## 🧠 Daily Execution System
 
@@ -97,30 +120,6 @@ Here is a simple daily loop:
 4. Log it (non-negotiable)
 
 That's all.
-
-## 🎯 Strategy for High-Level Open Source Project Acceptance
-
-The goal is to be accepted into competitive open source projects/programs (e.g. GSoC-level) by becoming a consistent and trusted contributor.
-
-### Phase 1 — Explore (0–2 months)
-
-- Contribute to multiple projects
-- Identify projects with active maintainers and clear contribution paths
-- Find areas where I can understand and add value
-
-### Phase 2 — Focus (2–6 months)
-
-- Choose 1–2 main projects
-- Contribute consistently (issues, PRs, discussions)
-- Build familiarity with the codebase and community
-
-### Phase 3 — Contribute Deeply (6–12 months)
-
-- Take on more complex issues
-- Support other contributors
-- Propose improvements or features
-
-Goal: Move from a one-time contributor → a recognized and reliable contributor within a project.
 
 ## 🔥 Key Mindset Shift
 
