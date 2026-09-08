@@ -117,11 +117,11 @@ Here is a simple daily loop:
 ⏰ 30–60 min routine
 
 1. Open a developer platform, such as GitHub
-2. Pick ONE:
-    - continue yesterday's work
-    - find a small issue or documentation
-3. Do something (Level 1-3)
-4. Log it (non-negotiable)
+2. Pick one small thing
+3. Work for roughly 30-60 minutes when possible
+4. Make a contribution
+5. Log what you did
+6. Reflect when useful
 
 That's all.
 
