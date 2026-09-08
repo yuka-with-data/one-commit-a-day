@@ -125,6 +125,40 @@ Here is a simple daily loop:
 
 That's all.
 
+## 🌱 From TO-DO to TO-BE
+
+Inspired by the idea of a Japanese life diary, this section invites you to move beyond tracking what you do and reflect on who you are trying to become.
+
+One Commit a Day is not only about what you accomplish.
+
+Over time, repeated work raises a more important questions:
+
+> What kind of technical person do I want to become?
+
+The TO-BE journal section explores questions such as:
+
+- Why am I in technology sector?
+- What motivates me?
+- What problems do I want to solve?
+- Who do I want to help?
+- What kind of engineer, developer, researcher, or creator do I want to become?
+- What does meaningful work look like?
+- What does success mean to me?
+
+The purpose is not to create a perfect career plan.
+
+It is to develop a clearer sense of direction.
+
+### TO-DO
+
+> What do I need to do today?
+
+### TO-BE
+
+> What kind of developer do I want to be while doing it?
+
+The two can coexist.
+
 ## 🔥 Key Mindset Shift
 
 Most people think:
