@@ -127,7 +127,7 @@ That's all.
 
 ## 🌱 From TO-DO to TO-BE
 
-Inspired by the idea of a Japanese life diary, this section invites you to move beyond tracking what you do and reflect on who you are trying to become.
+Inspired by the idea of a Japanese diary system, this section invites you to move beyond tracking what you do and reflect on who you are trying to become.
 
 One Commit a Day is not only about what you accomplish.
 
@@ -158,6 +158,45 @@ It is to develop a clearer sense of direction.
 > What kind of developer do I want to be while doing it?
 
 The two can coexist.
+
+## Journaling & Reflection
+
+The repository includes ready-to-use yearly spaces and reusable templates for:
+
+- Daily logs
+- Weekly reflections
+- Monthly reflections
+- Learning
+- Projects
+- Experiments
+- Writing
+- Technical To-Be
+
+Use as much or little you need.
+
+You do not need to complete every template.
+
+## Yearly Journals
+
+Each year provides a ready-to-use structure so you can start logging immediately without creating your own system.
+
+```txt
+2027/
+├── calendar.md
+├── daily/
+├── weekly/
+└── monthly/
+```
+
+The `calendar.md` can be used for major events, milestones, memorable moments, or simple personal markers.
+
+The daily logs can combine:
+
+- What I did
+- One Commit
+- Lightweight To-Do
+- Today's To-Be
+- Reflection
 
 ## 🔥 Key Mindset Shift
 
