@@ -198,6 +198,30 @@ The daily logs can combine:
 - Today's To-Be
 - Reflection
 
+## Growing as an Open Source Contributor
+
+The long-term goal is not simply to accumulate commits.
+
+It is to move from:
+
+> Showing up → Participating → Contributing → Collaborating → Becoming a trusted contributor
+
+A possible progression:
+
+### Phase 1 - Explore
+
+Discover projects, communities, technologies, and areas that interest you.
+
+### Phase 2 - Focus
+
+Choose a few projects and become familiar with their codebase and community.
+
+### Phase 3 - Contribute Deeply
+
+Take on larger issues, support other contributors, and eventually propose improvements of your own.
+
+The objective is to build relationships, experience, trust, and technical depth over time.
+
 ## 🔥 Key Mindset Shift
 
 Most people think:
