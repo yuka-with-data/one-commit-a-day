@@ -17,6 +17,20 @@ The goal is simple:
 
 > Show up. Make progress. Reflect. Repeat.
 
+## Quick Start
+
+If you are new to the framework:
+
+1. Read this `README`.
+2. Open the current year's folder.
+3. Start with daily log.
+4. Make one small contribution.
+5. Record what you did.
+6. Explore the Technical To-Be Journal when you are ready.
+7. Use the templates whenever they are useful.
+
+You don't need a perfect system. Just start showing up.
+
 ## The One Commit a Day Philosophy
 
 A “contribution” is defined as any action that helps move a project forward or deepens my involvement — including code, documentation, issue, discussions, reviews, or learning-related engagement in public repositories.
