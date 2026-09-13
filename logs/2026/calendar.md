@@ -6,21 +6,21 @@ Use this calendar to capture the context of your year of work: contributions, le
 
 | Emoji | Meaning | Copy |
 |---|---|---|
-| 🌱 | Showed up / logged in / made a small contribution | `🌱` |
+| ✅ | Showed up / Made progress, even if small | `✅` |
+| 🌱 | TO-BE / How I wanted to show up | `🌱` |
 | 💻 | Technical work | `💻` |
 | 📚 | Learning | `📚` |
 | ⭐ | Major event / milestone | `⭐` |
 | 🔥 | Busy period | `🔥` |
+| 🚀 | Sprint / focused work period | `🚀` |
 | ✨ | Memorable moment | `✨` |
-| 🎯 | TO-BE milestone | `🎯` |
-| 🚀 | Spring/focused work period | `🚀` |
 
 ### Example
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
 |-----|-----|-----|-----|-----|-----|-----|
 |     |     |     | 1📚 | 2💻 | 3   | 4✨ |
-| 5   | 6🔥 | 7💻 | 8   | 9⭐ | 10  | 11  |
+| 5✅ | 6🔥 | 7💻 | 8   | 9⭐ | 10  | 11  |
 | 12  | 13🌱| 14  | 15📚| 16  | 17  | 18  |
 
 
