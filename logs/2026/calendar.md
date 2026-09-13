@@ -5,7 +5,7 @@ Use this calendar to capture the context of your year of work: contributions, le
 ## 🗝️ Legend
 
 | Emoji | Meaning | Copy |
-|---|---|---|
+| --- | --- | --- |
 | ✅ | Showed up / Made progress, even if small | `✅` |
 | 🌱 | TO-BE / How I wanted to show up | `🌱` |
 | 💻 | Technical work | `💻` |
@@ -18,16 +18,15 @@ Use this calendar to capture the context of your year of work: contributions, le
 ### Example
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+| --- | --- | --- | --- | --- | --- | --- |
 |     |     |     | 1📚 | 2💻 | 3   | 4✨ |
 | 5✅ | 6🔥 | 7💻 | 8   | 9⭐ | 10  | 11  |
 | 12  | 13🌱| 14  | 15📚| 16  | 17  | 18  |
 
-
 ## September
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+| --- | --- | --- | --- | --- | --- | --- |
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
@@ -37,7 +36,7 @@ Use this calendar to capture the context of your year of work: contributions, le
 ## October
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+| --- | --- | --- | --- | --- | --- | --- |
 |     |     |     | 1   | 2   | 3   | 4   |
 | 5   | 6   | 7   | 8   | 9   | 10  | 11  |
 | 12  | 13  | 14  | 15  | 16  | 17  | 18  |
@@ -47,7 +46,7 @@ Use this calendar to capture the context of your year of work: contributions, le
 ## November
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+| --- | --- | --- | --- | --- | --- | --- |
 |     |     |     |     |     |     | 1   |
 | 2   | 3   | 4   | 5   | 6   | 7   | 8   |
 | 9   | 10  | 11  | 12  | 13  | 14  | 15  |
@@ -58,7 +57,7 @@ Use this calendar to capture the context of your year of work: contributions, le
 ## December
 
 | Mon | Tue | Wed | Thu | Fri | Sat | Sun |
-|-----|-----|-----|-----|-----|-----|-----|
+| --- | --- | --- | --- | --- | --- | --- |
 |     | 1   | 2   | 3   | 4   | 5   | 6   |
 | 7   | 8   | 9   | 10  | 11  | 12  | 13  |
 | 14  | 15  | 16  | 17  | 18  | 19  | 20  |
