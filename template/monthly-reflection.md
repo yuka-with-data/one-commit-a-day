@@ -10,6 +10,12 @@
 - Key technical or workflow insights:
 - What became easier this month:
 
+## 🌱 TO-BE Check-in
+
+- What kind of technical person did I aim to be this month?
+- How did my actions reflect that?
+- What kind of technical person do I want to become next month?
+
 ## ⚡ Challenges
 
 - What was difficult:
