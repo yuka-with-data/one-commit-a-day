@@ -1,4 +1,6 @@
-# 2026 Calendar
+# 2026 Activity Calendar
+
+Use this calendar to capture the context of your year of work: contributions, learning, milestones, sprints, busy periods, and memorable moments. Add legend emojis next to dates for a quick visual record. This is a journal, not a task tracker.
 
 ## 🗝️ Legend
 
