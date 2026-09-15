@@ -22,3 +22,40 @@ There are no right answers. Write what feels meaningful, and revisit it as you g
 - What values do I want my work to reflect?
 
 > What do I want my work to be about?
+
+## 3. Who Do I Want to Become?
+
+- How do I want to think and approach problems?
+- How do I want to work with others?
+- What do I want people to be able to rely on me for?
+
+> What kind of technical person do I want to become?
+
+## 4. My Technical TO-BE
+
+Complete whichever prompts resonate with you?
+
+- I want to become someone who...
+- I want to build...
+- I want to solve...
+- I want to contribute...
+- I want to be known for...
+
+### My TO-BE
+
+> I want to become a technical person who...
+
+## 🔄 Revisit
+
+Come back periodically and ask:
+
+- What has changed?
+- What still feels true?
+- Am I becoming the person I described?
+- What do I want to change or explore next?
+
+### 3 months
+
+### 6 months
+
+### End of Year
