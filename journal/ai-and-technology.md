@@ -4,7 +4,6 @@
 
 Technology can automate more of our work every day. This journal is a place to pause and think about **how you want to use that power intentionally.**
 
-
 ## 1. How Am I Using AI?
 
 You might use AI every day, be experimenting with it, or have little experience with it yet.
