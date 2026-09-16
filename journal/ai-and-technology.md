@@ -42,7 +42,7 @@ There is no single right way to use AI. Define the relationship that works for y
 
 ## 🔄 Revisit
 
-As the technology changes, revisit this journal and reflect.
+As the technology or/and workflow change, revisit this journal and reflect.
 
 - What has changed in the way I use AI?
 - What has changed in the way I think about my own skills?
