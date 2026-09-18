@@ -6,6 +6,10 @@ Knowing what you want to become is one thing. How you practice every day is how 
 
 This journal is about **the way you want to work**, not a list of things you need to accomplish.
 
+>[!IMPORTANT]
+> This is not a checklist.
+> You don't need to answer every question or change everything at once. Pick the questions that are relevant and useful to you and let your practice evolve over time.
+
 ## 1. How Do I Want to Learn?
 
 - What kind of learner do I want to be?
