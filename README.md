@@ -53,7 +53,7 @@ By showing up regularly, even in small ways, you can:
 - build real experience in open source collaboration
 - develop technical and communication skills
 - build confidence through repeated practice
-- discover what kind of technical work matters to  you
+- discover what kind of technical work matters to you
 - grow into a long-term contributor
 
 > [!IMPORTANT]
@@ -84,7 +84,7 @@ The normal target.
 
 ### Level 3: High Value
 
-Larger contributions, typically 1-2 times a month or every other months.
+Larger contributions, typically 1–2 times a month or every other months.
 
 - Submit a PR (bug fix, doc improvement)
 - Implement a new feature or significant improvement
@@ -97,9 +97,9 @@ Larger contributions, typically 1-2 times a month or every other months.
 
 Every day = at least Level 1
 
-1-2 days a week = Level 2
+1–2 days a week = Level 2
 
-1-2 days a month = Level 3
+1–2 days a month = Level 3
 
 The levels are guidelines.
 
@@ -132,7 +132,7 @@ Here is a simple daily loop:
 
 1. Open a developer platform, such as GitHub
 2. Pick one small thing
-3. Work for roughly 30-60 minutes when possible
+3. Work for roughly 30–60 minutes when possible
 4. Make a contribution
 5. Log what you did
 6. Reflect when useful
@@ -145,7 +145,7 @@ Inspired by the idea of a Japanese diary system, this section invites you to mov
 
 One Commit a Day is not only about what you accomplish.
 
-Over time, repeated work raises a more important questions:
+Over time, repeated work raises more important questions:
 
 > What kind of technical person do I want to become?
 
