@@ -1,6 +1,6 @@
 # 🌱 Technical TO-BE Journal
 
-> A lightweight journal for thinking about who you want to become, not just what you want to acomplish.
+> A lightweight journal for thinking about who you want to become, not just what you want to accomplish.
 
 Technology changes quickly. Tools, roles, and skills will change. This journal is a place to step back and think about what you want to remain true about you.
 
