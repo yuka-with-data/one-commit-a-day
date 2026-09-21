@@ -1,4 +1,4 @@
-🛠️ Project Log
+# 🛠️ Project Log
 
 Use this log to keep a lightweight record of a project as its develops, from its initial direction to progress, learning, and next steps. You can add project log to either the `weekly/` or `monthly/` folder under the relevant year's `logs/` directory.
 
