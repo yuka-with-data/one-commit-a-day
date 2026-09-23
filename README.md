@@ -72,9 +72,9 @@ The [templates](template/) provide lightweight formats for:
 
 ## The One Commit a Day Philosophy
 
-A “contribution” is defined as any action that helps move a project forward or deepens my involvement — including code, documentation, issue, discussions, reviews, or learning-related engagement in public repositories.
+A “contribution” is defined as any action that helps move a project forward or deepens your involvement. A contribution does not have to be a major feature or a merged pull request.
 
-A contribution does not have to be a major feature or a merged pull request. It is **any action that moves a project forward or deepens your involvement**, including:
+It can include:
 
 - Code
 - Documentation
