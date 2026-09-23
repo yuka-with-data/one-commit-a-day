@@ -190,8 +190,6 @@ Over time, repeated work raises more important questions:
 
 > What kind of technical person do I want to become?
 
-The [TO-BE journal](journal/) section explores questions such as:
-
 The [TO-BE Journal](journal/) section explores questions such as:
 
 - Why am I in the technology field, and what matters to me?
@@ -279,7 +277,7 @@ The long-term goal is not simply to accumulate commits.
 
 It is to move from:
 
-> Showing up → Participating → Contributing → Collaborating → Becoming a trusted contributor
+> Show up → Participate → Contribute → Collaborate → Become a trusted contributor
 
 A possible progression:
 
