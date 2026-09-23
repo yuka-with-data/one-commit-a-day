@@ -188,7 +188,7 @@ Over time, repeated work raises more important questions:
 
 > What kind of technical person do I want to become?
 
-The TO-BE journal section explores questions such as:
+The [TO-BE journal](journal/) section explores questions such as:
 
 - Why am I in technology sector?
 - What motivates me?
@@ -214,20 +214,31 @@ The two can coexist.
 
 ## Journaling & Reflection
 
-The repository includes ready-to-use yearly spaces and reusable templates for:
+The repository separates thinking about your direction from recording what actually happened.
+
+### `journal/`
+
+For identity, values, direction, technology, and practice.
+
+### `templates/`
+
+Reusable formats for:
 
 - Daily logs
 - Weekly reflections
 - Monthly reflections
-- Learning
-- Projects
-- Experiments
-- Writing
-- Technical To-Be
+- Project logs
+- Experiment logs
 
-Use as much or little you need.
+### `logs/`
 
-You do not need to complete every template.
+Yearly records of what you actually did, learned, and reflected on.
+
+This creates a simple loop:
+
+> TO-BE → Show Up → Contribute → Log → Reflect → Revisit
+
+You don't need to complete every journal or template. Use what is useful to you.
 
 ## Yearly Journals
 
