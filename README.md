@@ -240,27 +240,32 @@ This creates a simple loop:
 
 You don't need to complete every journal or template. Use what is useful to you.
 
-## Yearly Journals
+## Yearly Logs
 
 Each year provides a ready-to-use structure so you can start logging immediately without creating your own system.
 
 ```txt
-2027/
-├── calendar.md
-├── daily/
-├── weekly/
-└── monthly/
+logs/
+└── 2027/
+    ├── README.md
+    ├── calendar.md
+    ├── daily/
+    ├── weekly/
+    └── monthly/
 ```
 
-The `calendar.md` can be used for major events, milestones, memorable moments, or simple personal markers.
+The yearly `README` provides space to think about the beginning and the end of the year. The `calendar.md` provides a visual record of:
 
-The daily logs can combine:
+- 🌱 TO-BE
+- ✅ Showing up / making progress
+- 💻 Technical work
+- 📚 Learning
+- ⭐ Major events or milestones
+- 🔥 Busy periods
+- 🚀 Focused work periods
+- ✨ Memorable moments
 
-- What I did
-- One Commit
-- Lightweight To-Do
-- Today's To-Be
-- Reflection
+The daily, weekly, and monthly logs provide progressively more space to reflect on your work and growth.
 
 ## Growing as an Open Source Contributor
 
