@@ -2,7 +2,7 @@
 
 > A lightweight journal for thinking about who you want to become, not just what you want to accomplish.
 
-Technology changes quickly. Tools, roles, and skills will change. This journal is a place to step back and think about what you want to remain true about you.
+Technology changes quickly. Tools, roles, and skills will continue to change. This journal is a place to step back and think about what you want to remain true as you grow.
 
 There are no right answers. Write what feels meaningful, and revisit it as you grow.
 
