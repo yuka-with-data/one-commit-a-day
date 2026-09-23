@@ -9,7 +9,7 @@ It has since evolved into a collection of:
 - open source contribution practices
 - daily, weekly, and monthly logs
 - guided reflections
-- technical to-be journaling
+- technical TO-BE journaling
 - work and project templates
 - practical resources and lessons learned
 
@@ -19,17 +19,56 @@ The goal is simple:
 
 ## Quick Start
 
-If you are new to the framework:
+One Commit a Day is meant to grow with you. Start with simple practice of showing up and making one small contribution, then use the logs, and reflections, and journals as you want to go deeper.
 
-1. Read this `README`.
-2. Open the current year's folder.
-3. Start with daily log.
-4. Make one small contribution.
-5. Record what you did.
-6. Explore the Technical To-Be Journal when you are ready.
-7. Use the templates whenever they are useful.
+### 1. Start with the yearly logs
 
-You don't need a perfect system. Just start showing up.
+Open the current year's folder:
+
+```txt
+logs/
+└── 2027/
+    ├── README.md
+    ├── calendar.md
+    ├── daily/
+    ├── weekly/
+    └── monthly/
+```
+
+Use:
+
+- `calender.md` for a quick view of your year
+- `daily/` to record small contributions
+- `weekly/` to step back and reflect
+- `monthly/` to look for patterns and direction
+
+### 2. Make one small contribution
+
+It can be code, documentation, an issue, a review, discussion, learning, or work on your own project. It doesn't have to be a commit.
+
+### 3. Record what happened
+
+Use the daily log to capture what you actually worked on.
+
+### 4. Explore the journals
+
+When you want to think beyond today's tasks, explore:
+
+- [journal/technical-to-be.md](journal/technical-to-be.md) - Who do I want to become?
+- [journal/ai-and-technology.md](journal/ai-and-technology.md) - How do I want to relate to changing technology?
+- [journal/technical-practice.md](journal/technical-practice.md) - How do I want to practice, work, and learn?
+
+5. Use the templates when useful
+
+The [templates](template/) provide lightweight formats for:
+
+- Daily logs
+- Weekly reflections
+- Monthly reflections
+- Project logs
+- Experiment logs
+
+**You don't need a perfect system. Just start showing up.**
 
 ## The One Commit a Day Philosophy
 
