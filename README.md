@@ -10,7 +10,7 @@ It has since evolved into a collection of:
 - daily, weekly, and monthly logs
 - guided reflections
 - technical TO-BE journaling
-- work and project templates
+- project and experiment templates
 - practical resources and lessons learned
 
 The goal is simple:
@@ -37,7 +37,7 @@ logs/
 
 Use:
 
-- `calender.md` for a quick view of your year
+- `calendar.md` for a quick view of your year
 - `daily/` to record small contributions
 - `weekly/` to step back and reflect
 - `monthly/` to look for patterns and direction
@@ -58,7 +58,7 @@ When you want to think beyond today's tasks, explore:
 - [journal/ai-and-technology.md](journal/ai-and-technology.md) - How do I want to relate to changing technology?
 - [journal/technical-practice.md](journal/technical-practice.md) - How do I want to practice, work, and learn?
 
-5. Use the templates when useful
+### 5. Use the templates when useful
 
 The [templates](template/) provide lightweight formats for:
 
@@ -119,11 +119,11 @@ The normal target.
 - Reproduce a bug + document it
 - Add example usage / test case
 - Improve documentation clarity
-- Work on my own repository + Contribute 5+ times
+- Make meaningful progress on your own repository
 
 ### Level 3: High Value
 
-Larger contributions, typically 1–2 times a month or every other months.
+Larger contributions, typically 1–2 times a month or every other month.
 
 - Submit a PR (bug fix, doc improvement)
 - Implement a new feature or significant improvement
@@ -176,6 +176,8 @@ Here is a simple daily loop:
 5. Log what you did
 6. Reflect when useful
 
+> **Show Up → Contribute → Log → Reflect → Repeat**
+
 That's all.
 
 ## 🌱 From TO-DO to TO-BE
@@ -190,13 +192,12 @@ Over time, repeated work raises more important questions:
 
 The [TO-BE journal](journal/) section explores questions such as:
 
-- Why am I in technology sector?
-- What motivates me?
-- What problems do I want to solve?
-- Who do I want to help?
-- What kind of engineer, developer, researcher, or creator do I want to become?
-- What does meaningful work look like?
-- What does success mean to me?
+The [TO-BE Journal](journal/) section explores questions such as:
+
+- Why am I in the technology field, and what matters to me?
+- What problems do I want to solve and who do I want to help?
+- How do I want to relate to technology, AI, and my own practice?
+- What kind of technical person do I want to become?
 
 The purpose is not to create a perfect career plan.
 
@@ -218,7 +219,12 @@ The repository separates thinking about your direction from recording what actua
 
 ### `journal/`
 
-For identity, values, direction, technology, and practice.
+For thinking about:
+
+- Who you want to become
+- What matters to you
+- How you relate to AI and technology
+- How you want to learn, work, and contribute
 
 ### `templates/`
 
@@ -236,7 +242,7 @@ Yearly records of what you actually did, learned, and reflected on.
 
 This creates a simple loop:
 
-> TO-BE → Show Up → Contribute → Log → Reflect → Revisit
+> **Show Up → Contribute → Log → Reflect → Learn → Grow**
 
 You don't need to complete every journal or template. Use what is useful to you.
 
@@ -265,7 +271,7 @@ The yearly `README` provides space to think about the beginning and the end of t
 - 🚀 Focused work periods
 - ✨ Memorable moments
 
-The daily, weekly, and monthly logs provide progressively more space to reflect on your work and growth.
+The daily, weekly, and monthly logs provide different ways to reflect on your work and growth.
 
 ## Growing as an Open Source Contributor
 
@@ -304,4 +310,4 @@ Because in open source:
 - Consistency builds reputation over time.
 - Repeated interaction builds trust with maintainers.
 - Engagement and presence matter as much as code.
-- Long-term involvement predicts becoming a core contributor.
+- Long-term involvement creates opportunities to contribute more deeply.
