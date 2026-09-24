@@ -297,11 +297,13 @@ The objective is to build relationships, experience, trust, and technical depth 
 
 ## 🔥 Key Mindset Shift
 
-Most people think:
-> I need to contribute something big and valuable.
+It's easy to think:
 
-But the real open source world is about:
-> I need to be consistently present.
+> I need to make a big and valuable contribution.
+
+But meaningful open source involvement can also come from:
+
+> **Showing up consistently and contributing in small ways.**
 
 Because in open source:
 
