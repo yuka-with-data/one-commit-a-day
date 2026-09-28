@@ -315,3 +315,7 @@ Because in open source:
 ## Disclaimer
 
 See [DISCLAIMER.md](DISCLAIMER.md) for important notes about using this framework.
+
+## Contributing
+
+For now, ideas, suggestions, and feedback are welcome through Issues. If you have an idea for improving the system, feel free to open an issue.
