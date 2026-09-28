@@ -6,13 +6,18 @@ Technology changes quickly. Tools, roles, and skills will continue to change. Th
 
 There are no right answers. Write what feels meaningful, and revisit it as you grow.
 
+> [!NOTE]
+> Try writing this by hand.
+> This exercise is meant to be a space to slow down and think. If possible, write your answer in a paper journal or notebook rather than directly in this digital file.
+
 ## 1. Why Tech?
 
 - Why am I in tech?
+- Why coding, building, learning, or exploring?
 - What keeps me interested?
 - What do I enjoy building, learning, or exploring?
 
-> What makes me want to be here?
+> What **originally** makes me want to be here?
 
 ## 2. What Matters to Me?
 
@@ -69,10 +74,11 @@ Complete whichever prompts resonate with you. You don't need to answer them all.
 
 Come back periodically and ask:
 
-- What has changed?
-- What still feels true?
+- What has changed since I last wrote this?
+- What still feels meaningful to me?
 - Am I becoming the person I described?
-- Is my direction still aligned with what matters to me?
+- What parts of technology or technical work do I still care about?
+- Is there something I want to return to?
 - What do I want to change or explore next?
 
 ### 3 months
