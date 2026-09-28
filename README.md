@@ -311,3 +311,7 @@ Because in open source:
 - Repeated interaction builds trust with maintainers.
 - Engagement and presence matter as much as code.
 - Long-term involvement creates opportunities to contribute more deeply.
+
+## Disclaimer
+
+See [DISCLAIMER.md](DISCLAIMER.md) for important notes about using this framework.
