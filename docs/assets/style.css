@@ -436,3 +436,33 @@ footer p {
         transform: rotate(90deg);
     }
 }
+
+
+/* Getting Started */
+
+.principle + .principle {
+    margin-top: 1rem;
+}
+
+.principle ul {
+    margin: 0.75rem 0 1rem 1.25rem;
+    color: var(--color-text-muted);
+}
+
+.principle li {
+    margin-bottom: 0.4rem;
+}
+
+.principle pre {
+    margin: 1rem 0;
+    padding: 1rem;
+    overflow-x: auto;
+    background: var(--color-surface-soft);
+    border-radius: var(--radius-sm);
+    font-size: 0.9rem;
+}
+
+.principle code {
+    font-family: Consolas, monospace;
+    font-size: 0.9em;
+}
