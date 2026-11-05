@@ -1,4 +1,8 @@
 # 🫶🏽 One Commitment a Day
+
+[![Website](https://img.shields.io/badge/Website-Live-2ea44f?style=flat-square)](https://yuka-with-data.github.io/one-commit-a-day/)
+[![Release](https://img.shields.io/badge/Release-v2.0.2-blue?style=flat-square)](https://github.com/yuka-with-data/one-commit-a-day/releases)
+
 >
 > A practical framework for building consistency, contributing to open source, and growing through small actions every day.
 
