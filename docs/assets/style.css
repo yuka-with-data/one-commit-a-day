@@ -466,3 +466,31 @@ footer p {
     font-family: Consolas, monospace;
     font-size: 0.9em;
 }
+
+
+/* Calendar Example */
+.calendar-example {
+    overflow-x: auto;
+    margin: 1.5rem 0;
+}
+
+.calendar-example table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+.calendar-example th,
+.calendar-example td {
+    border: 1px solid var(--border-color);
+    padding: 0.8rem 0.4rem;
+}
+
+.calendar-example th {
+    font-weight: 600;
+}
+
+.calendar-example td {
+    height: 3.5rem;
+}
