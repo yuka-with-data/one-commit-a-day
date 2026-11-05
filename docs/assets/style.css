@@ -471,7 +471,7 @@ footer p {
 /* Calendar Example */
 .calendar-example {
     overflow-x: auto;
-    margin: 1.5rem 0;
+    margin: 1.5rem 0 2.5rem;
 }
 
 .calendar-example table {
@@ -493,4 +493,15 @@ footer p {
 
 .calendar-example td {
     height: 3.5rem;
+}
+
+/* Calendar Indicators */
+.calendar-indicators {
+    margin-top: 2.5rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--border-color);
+}
+
+.calendar-indicators h3 {
+    margin-top: 0;
 }
